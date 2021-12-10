@@ -10,7 +10,7 @@
 <body>
 <?php
 
-	echo "HELLO WORLD";
+	echo "HEELLO WORLD";
 
 ?>
 	<form>
